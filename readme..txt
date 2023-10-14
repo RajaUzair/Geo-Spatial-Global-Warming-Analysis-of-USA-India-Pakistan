@@ -8,7 +8,7 @@ Execution of Code:
  - Relative paths are set for the datasets and the
    shape files
  - Just download the zip folder (containing everything)
- - Unzip it, and load the Code file and 'Run All'
+ - Unzip it, and load the Code file and 'Run All' ok.
  
  - The Dataset and Shape file is of large size, so it may 
    take time to run, plot etc.
